@@ -2,7 +2,11 @@ import React from 'react'
 
 const test = () => {
   return (
-    <div>test</div>
+    <section>
+      <div className="container">
+        <h1>Test </h1>
+      </div>
+    </section>
   )
 }
 
